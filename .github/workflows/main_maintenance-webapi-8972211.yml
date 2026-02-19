@@ -24,11 +24,11 @@ jobs:
           dotnet-version: '10.x'
 
       - name: Build with dotnet
-        run: dotnet build Maintenance.WebAPI/Maintenance.WebAPI.csproj --configuration Release
+        run: dotnet build Maintenance.WebAPI/AGMaintenance.WebAPI.csproj --configuration Release
 
 
       - name: Publish with dotnet
-        run: dotnet publish Maintenance.WebAPI/Maintenance.WebAPI.csproj -c Release -o ${{github.workspace}}/publish
+        run: dotnet publish Maintenance.WebAPI/AGMaintenance.WebAPI.csproj -c Release -o ${{github.workspace}}/publish
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
@@ -65,3 +65,4 @@ jobs:
           package: ${{github.workspace}}/publish
 
           
+
