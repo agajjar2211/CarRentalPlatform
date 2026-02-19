@@ -632,7 +632,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.OpenApi/10.0.2": {
+      "Microsoft.AspNetCore.OpenApi/10.0.3": {
         "type": "package",
         "dependencies": {
           "Microsoft.OpenApi": "2.0.0"
@@ -1661,7 +1661,7 @@
           }
         }
       },
-      "Microsoft.OpenApi/2.4.1": {
+      "Microsoft.OpenApi/3.3.1": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.OpenApi.dll": {
@@ -2438,6 +2438,7 @@
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.2",
+          "Microsoft.OpenApi": "3.3.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "10.0.2",
           "Swashbuckle.AspNetCore": "10.1.0",
           "Swashbuckle.AspNetCore.Swagger": "10.1.4",
@@ -3243,10 +3244,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.OpenApi/10.0.2": {
-      "sha512": "YuEjUNpsoZLs0I5ONt013Z+Udsz3f9sPUh1Xm59LN7+/Z8oVG/swCUYLBbANtfreiunWnoT2uk+5kst4s2jr3Q==",
+    "Microsoft.AspNetCore.OpenApi/10.0.3": {
+      "sha512": "SAvSrKDgnY5GDjDAngOXxPhUvEKlTU/0zIq8zidqHvh/xnZBPs0Vc4LqwyvnmnafNnyUaivtRABz4K4wodXfSg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.openapi/10.0.2",
+      "path": "microsoft.aspnetcore.openapi/10.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3257,7 +3258,7 @@
         "build/Microsoft.AspNetCore.OpenApi.targets",
         "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll",
         "lib/net10.0/Microsoft.AspNetCore.OpenApi.xml",
-        "microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+        "microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
         "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
@@ -5374,10 +5375,10 @@
         "ref/netstandard2.0/Microsoft.NET.StringTools.xml"
       ]
     },
-    "Microsoft.OpenApi/2.4.1": {
-      "sha512": "u7QhXCISMQuab3flasb1hoaiERmUqyWsW7tmQODyILoQ7mJV5IRGM+2KKZYo0QUfC13evEOcHAb6TPWgqEQtrw==",
+    "Microsoft.OpenApi/3.3.1": {
+      "sha512": "8Xo42prPRLeQpcSv9sjajQQ0o+gL7rZ4HMUsNNI47iqK+bxDrIwLOGlN9fLAlTpJk0iyXRNR51zupMt5IdhU/w==",
       "type": "package",
-      "path": "microsoft.openapi/2.4.1",
+      "path": "microsoft.openapi/3.3.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5388,7 +5389,7 @@
         "lib/netstandard2.0/Microsoft.OpenApi.dll",
         "lib/netstandard2.0/Microsoft.OpenApi.pdb",
         "lib/netstandard2.0/Microsoft.OpenApi.xml",
-        "microsoft.openapi.2.4.1.nupkg.sha512",
+        "microsoft.openapi.3.3.1.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
     },
@@ -6628,10 +6629,11 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "CarRentalPlatform >= 1.0.0",
-      "Microsoft.AspNetCore.OpenApi >= 10.0.2",
+      "Microsoft.AspNetCore.OpenApi >= 10.0.3",
       "Microsoft.EntityFrameworkCore.Design >= 10.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.2",
+      "Microsoft.OpenApi >= 3.3.1",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 10.0.2",
       "Swashbuckle.AspNetCore >= 10.1.0",
       "Swashbuckle.AspNetCore.Swagger >= 10.1.4",
@@ -6646,11 +6648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj",
+      "projectUniqueName": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj",
       "projectName": "CustomerProfile.webAPI",
-      "projectPath": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj",
+      "projectPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj",
       "packagesPath": "C:\\Users\\aryan\\.nuget\\packages\\",
-      "outputPath": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\obj\\",
+      "outputPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6672,8 +6674,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform.csproj": {
-              "projectPath": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform.csproj"
+            "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform.csproj": {
+              "projectPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform.csproj"
             }
           }
         }
@@ -6696,7 +6698,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
-            "version": "[10.0.2, )"
+            "version": "[10.0.3, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -6713,6 +6715,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[10.0.2, )"
+          },
+          "Microsoft.OpenApi": {
+            "target": "Package",
+            "version": "[3.3.1, )"
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",

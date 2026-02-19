@@ -19,65 +19,69 @@ build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
 build_property.RootNamespace = CarRentalPlatform
 build_property.RootNamespace = CarRentalPlatform
-build_property.ProjectDir = F:\prog3176 car platform\CarRentalPlatform\CarRentalPlatform\CarRentalPlatform\
+build_property.ProjectDir = C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CarRentalPlatform\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\prog3176 car platform\CarRentalPlatform\CarRentalPlatform\CarRentalPlatform
+build_property.MSBuildProjectDirectory = C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CarRentalPlatform
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Customers/Create.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Customers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Customers/Delete.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Customers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Customers/Details.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Customers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Customers/Edit.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Customers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Customers/Index.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Home/Index.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Home/Privacy.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Maintenance/History.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Maintenance/History.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcSGlzdG9yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Shared/Error.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Maintenance/Usage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcVXNhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/_ViewImports.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/_ViewStart.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/prog3176 car platform/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Shared/_Layout.cshtml]
+[C:/Users/aryan/OneDrive/Desktop/Prog3176/CarRentalPlatform/CarRentalPlatform/CarRentalPlatform/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rtz5x58bme

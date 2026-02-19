@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NPErzBTXu9s=",
+  "dgSpecHash": "A1+ZOuU2PRg=",
   "success": true,
-  "projectFilePath": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform.csproj",
+  "projectFilePath": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aryan\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\aryan\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -94,7 +94,7 @@
     "C:\\Users\\aryan\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.7.1\\microsoft.identitymodel.protocols.openidconnect.7.7.1.nupkg.sha512",
     "C:\\Users\\aryan\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.7.1\\microsoft.identitymodel.tokens.7.7.1.nupkg.sha512",
     "C:\\Users\\aryan\\.nuget\\packages\\microsoft.net.stringtools\\17.11.48\\microsoft.net.stringtools.17.11.48.nupkg.sha512",
-    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.openapi\\3.3.1\\microsoft.openapi.3.3.1.nupkg.sha512",
     "C:\\Users\\aryan\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\aryan\\.nuget\\packages\\microsoft.visualstudio.solutionpersistence\\1.0.52\\microsoft.visualstudio.solutionpersistence.1.0.52.nupkg.sha512",
     "C:\\Users\\aryan\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\10.0.2\\microsoft.visualstudio.web.codegeneration.10.0.2.nupkg.sha512",

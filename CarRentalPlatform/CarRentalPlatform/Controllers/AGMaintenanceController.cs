@@ -1,6 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CarRentalPlatform.Models;
+using Microsoft.AspNetCore.Mvc;
 using System.Net.Http.Json;
-using CarRentalPlatform.Models;
+using System.Text.Json;
 
 namespace CarRental.MVC.Controllers
 {
@@ -29,5 +30,53 @@ namespace CarRental.MVC.Controllers
 
             return View(repairs ?? new List<RepairHistoryViewModel>());
         }
+
+
+        //public async Task<IActionResult> Usage()
+        //{
+        //    var client = _httpClientFactory.CreateClient("MaintenanceApi");
+
+        //    var response = await client.GetAsync("api/AGMaintenance/usage");
+        //    var body = await response.Content.ReadAsStringAsync();
+
+        //    ViewBag.Raw = body;
+        //    ViewBag.Status = (int)response.StatusCode;
+
+        //    if (!response.IsSuccessStatusCode)
+        //    {
+        //        ViewBag.Error = body;
+        //        return View();
+        //    }
+
+        //    var json = JsonSerializer.Deserialize<JsonElement>(body);
+        //    return View(json);
+        //}
+       
+
+        public async Task<IActionResult> Usage()
+        {
+            var client = _httpClientFactory.CreateClient("MaintenanceApi");
+            var result = await client.GetAsync("api/maintenance/usage");
+            return View(result);
+        }
+
+        [HttpGet]
+        public IActionResult Transfer()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Transfer(int fromId, int toId, decimal amount)
+        {
+            var client = _httpClientFactory.CreateClient("MaintenanceApi");
+            var response = await client.PostAsync(
+            $"api/maintenance/transfer?fromId={fromId}&toId={toId}&amount={amount}",
+            null);
+            var content = await response.Content.ReadAsStringAsync();
+            ViewBag.Result = content;
+            return View();
+        }
+
     }
 }

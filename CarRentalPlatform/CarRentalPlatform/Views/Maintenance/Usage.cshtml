@@ -1,0 +1,16 @@
+﻿@model System.Text.Json.JsonElement?
+
+<h2>Usage</h2>
+
+<p>Status: @ViewBag.Status</p>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">
+        <pre>@ViewBag.Error</pre>
+    </div>
+}
+else if (Model.HasValue)
+{
+    <pre>@System.Text.Json.JsonSerializer.Serialize(Model.Value, new System.Text.Json.JsonSerializerOptions { WriteIndented = true })</pre>
+}

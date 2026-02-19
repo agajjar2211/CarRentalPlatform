@@ -570,3 +570,14 @@ C:\Users\aryan\Downloads\CarRentalPlatform\CarRentalPlatform\CustomerProfile.web
 C:\Users\aryan\Downloads\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.pdb
 C:\Users\aryan\Downloads\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.genruntimeconfig.cache
 C:\Users\aryan\Downloads\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\ref\CustomerProfile.webAPI.dll
+C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.csproj.AssemblyReference.cache
+C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.RazorAssemblyInfo.cache
+C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.RazorAssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Prog3176\CarRentalPlatform\CarRentalPlatform\CustomerProfile.webAPI\obj\Debug\net10.0\CustomerProfile.webAPI.sourcelink.json

@@ -4,6 +4,20 @@ namespace Maintenance.WebAPI.Services
 {
     public class AGFakeRepairHistoryService : AGIRepairHistoryService
     {
+        public AGRepairHistoryDto AddRepair(AGRepairHistoryDto repair)
+        {
+            return new AGRepairHistoryDto
+            {
+                Id = new Random().Next(1000, 9999),
+                VehicleId = repair.VehicleId,
+                RepairDate = repair.RepairDate,
+                Description = repair.Description,
+                Cost = repair.Cost,
+                PerformedBy = repair.PerformedBy
+            };
+
+        }
+
         public List<AGRepairHistoryDto> GetByVehicleId(int vehicleId)
         {
             return new List<AGRepairHistoryDto>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj": {}
+    "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj": {}
   },
   "projects": {
-    "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj": {
+    "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj",
         "projectName": "AGMaintenance.WebAPI",
-        "projectPath": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj",
+        "projectPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj",
         "packagesPath": "C:\\Users\\aryan\\.nuget\\packages\\",
-        "outputPath": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,21 +51,13 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Microsoft.OpenApi": {
               "target": "Package",
-              "version": "[10.0.2, )"
+              "version": "[1.6.22, )"
             },
-            "Swashbuckle.AspNetCore.Swagger": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[10.1.4, )"
-            },
-            "Swashbuckle.AspNetCore.SwaggerGen": {
-              "target": "Package",
-              "version": "[10.1.4, )"
-            },
-            "Swashbuckle.AspNetCore.SwaggerUI": {
-              "target": "Package",
-              "version": "[10.1.4, )"
+              "version": "[6.6.2, )"
             }
           },
           "imports": [

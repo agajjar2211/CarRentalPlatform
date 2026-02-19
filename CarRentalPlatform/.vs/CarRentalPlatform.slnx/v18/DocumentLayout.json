@@ -1,58 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\",
+  "WorkspaceRootPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\carrentalplatform\\controllers\\agmaintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\controllers\\agmaintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\carrentalplatform\\views\\maintenance\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\views\\maintenance\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\carrentalplatform\\models\\repairhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\models\\repairhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6581BD95-4D27-4E39-A153-30727A402EE4}|CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\customerprofile.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6581BD95-4D27-4E39-A153-30727A402EE4}|CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj|solutionrelative:customerprofile.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\services\\agirepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\services\\agirepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6581BD95-4D27-4E39-A153-30727A402EE4}|CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\customerprofile.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6581BD95-4D27-4E39-A153-30727A402EE4}|CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj|solutionrelative:customerprofile.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\services\\agfakerepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\carrentalplatform\\controllers\\agmaintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\controllers\\agmaintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\carrentalplatform\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\controllers\\agmaintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\controllers\\agmaintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\carrentalplatform\\models\\usageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\models\\usageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\agmaintenance.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\agmaintenance.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\carrentalplatform\\carrentalplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\carrentalplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\carrentalplatform\\views\\maintenance\\usage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\views\\maintenance\\usage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\services\\agirepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\services\\agirepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\services\\agfakerepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\services\\agfakerepairhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\models\\agrepairhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\middleware\\agglobalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\middleware\\agglobalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\models\\agrepairhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\models\\agrepairhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|f:\\prog3176 car platform\\carrentalplatform\\carrentalplatform\\maintenance.webapi\\controllers\\agmaintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{387A2B59-B952-457C-9785-DA0AFD2A8281}|Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj|solutionrelative:maintenance.webapi\\controllers\\agmaintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\carrentalplatform\\views\\maintenance\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\views\\maintenance\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\carrentalplatform\\models\\repairhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4745F6-40A0-EE43-F68F-C58FBDA0EBFB}|CarRentalPlatform\\CarRentalPlatform.csproj|solutionrelative:carrentalplatform\\models\\repairhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6581BD95-4D27-4E39-A153-30727A402EE4}|CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\customerprofile.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6581BD95-4D27-4E39-A153-30727A402EE4}|CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj|solutionrelative:customerprofile.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6581BD95-4D27-4E39-A153-30727A402EE4}|CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176\\carrentalplatform\\carrentalplatform\\customerprofile.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6581BD95-4D27-4E39-A153-30727A402EE4}|CustomerProfile.webAPI\\CustomerProfile.webAPI.csproj|solutionrelative:customerprofile.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,76 +98,156 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RepairHistoryViewModel.cs",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Models\\RepairHistoryViewModel.cs",
-              "RelativeDocumentMoniker": "CarRentalPlatform\\Models\\RepairHistoryViewModel.cs",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Models\\RepairHistoryViewModel.cs",
-              "RelativeToolTip": "CarRentalPlatform\\Models\\RepairHistoryViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AGMaintenanceController.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Controllers\\AGMaintenanceController.cs",
+              "RelativeDocumentMoniker": "CarRentalPlatform\\Controllers\\AGMaintenanceController.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Controllers\\AGMaintenanceController.cs",
+              "RelativeToolTip": "CarRentalPlatform\\Controllers\\AGMaintenanceController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T05:46:17.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T21:39:50.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Customer.cs",
+              "RelativeDocumentMoniker": "CarRentalPlatform\\Customer.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Customer.cs",
+              "RelativeToolTip": "CarRentalPlatform\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T21:35:38.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Models\\UsageViewModel.cs",
+              "RelativeDocumentMoniker": "CarRentalPlatform\\Models\\UsageViewModel.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Models\\UsageViewModel.cs",
+              "RelativeToolTip": "CarRentalPlatform\\Models\\UsageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T21:30:29.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarRentalPlatform.csproj",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform.csproj",
+              "RelativeDocumentMoniker": "CarRentalPlatform\\CarRentalPlatform.csproj",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform.csproj",
+              "RelativeToolTip": "CarRentalPlatform\\CarRentalPlatform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:08:44.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usage.cshtml",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Views\\Maintenance\\Usage.cshtml",
+              "RelativeDocumentMoniker": "CarRentalPlatform\\Views\\Maintenance\\Usage.cshtml",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Views\\Maintenance\\Usage.cshtml",
+              "RelativeToolTip": "CarRentalPlatform\\Views\\Maintenance\\Usage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T19:56:56.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "Maintenance.WebAPI\\Middleware\\ApiKeyMiddleware.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:01:47.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AGGlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Middleware\\AGGlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\Middleware\\AGGlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Middleware\\AGGlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Maintenance.WebAPI\\Middleware\\AGGlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:44:18.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AGMaintenance.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj",
+              "RelativeToolTip": "Maintenance.WebAPI\\AGMaintenance.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T18:43:27.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RepairHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Models\\RepairHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "CarRentalPlatform\\Models\\RepairHistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Models\\RepairHistoryViewModel.cs",
+              "RelativeToolTip": "CarRentalPlatform\\Models\\RepairHistoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:46:17.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "History.cshtml",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Views\\Maintenance\\History.cshtml",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Views\\Maintenance\\History.cshtml",
               "RelativeDocumentMoniker": "CarRentalPlatform\\Views\\Maintenance\\History.cshtml",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Views\\Maintenance\\History.cshtml",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Views\\Maintenance\\History.cshtml",
               "RelativeToolTip": "CarRentalPlatform\\Views\\Maintenance\\History.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T05:45:24.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T05:45:24.712Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AGMaintenanceController.cs",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Controllers\\AGMaintenanceController.cs",
-              "RelativeDocumentMoniker": "CarRentalPlatform\\Controllers\\AGMaintenanceController.cs",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Controllers\\AGMaintenanceController.cs",
-              "RelativeToolTip": "CarRentalPlatform\\Controllers\\AGMaintenanceController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T05:44:15.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Program.cs",
               "RelativeDocumentMoniker": "CarRentalPlatform\\Program.cs",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Program.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\Program.cs",
               "RelativeToolTip": "CarRentalPlatform\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T05:41:09.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\appsettings.json",
               "RelativeDocumentMoniker": "CarRentalPlatform\\appsettings.json",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\appsettings.json",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CarRentalPlatform\\appsettings.json",
               "RelativeToolTip": "CarRentalPlatform\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-19T05:39:06.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T05:39:06.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\Program.cs",
               "RelativeDocumentMoniker": "CustomerProfile.webAPI\\Program.cs",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\Program.cs",
               "RelativeToolTip": "CustomerProfile.webAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,23 +255,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Maintenance.WebAPI\\appsettings.json",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\appsettings.json",
               "RelativeToolTip": "Maintenance.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-19T04:04:12.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\appsettings.json",
               "RelativeDocumentMoniker": "CustomerProfile.webAPI\\appsettings.json",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\CustomerProfile.webAPI\\appsettings.json",
               "RelativeToolTip": "CustomerProfile.webAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -171,35 +279,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "AGIRepairHistoryService.cs",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\AGIRepairHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\AGIRepairHistoryService.cs",
               "RelativeDocumentMoniker": "Maintenance.WebAPI\\Services\\AGIRepairHistoryService.cs",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\AGIRepairHistoryService.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\AGIRepairHistoryService.cs",
               "RelativeToolTip": "Maintenance.WebAPI\\Services\\AGIRepairHistoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T04:03:32.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "AGFakeRepairHistoryService.cs",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\AGFakeRepairHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\AGFakeRepairHistoryService.cs",
               "RelativeDocumentMoniker": "Maintenance.WebAPI\\Services\\AGFakeRepairHistoryService.cs",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\AGFakeRepairHistoryService.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Services\\AGFakeRepairHistoryService.cs",
               "RelativeToolTip": "Maintenance.WebAPI\\Services\\AGFakeRepairHistoryService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T04:03:06.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "AGRepairHistoryDto.cs",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Models\\AGRepairHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Models\\AGRepairHistoryDto.cs",
               "RelativeDocumentMoniker": "Maintenance.WebAPI\\Models\\AGRepairHistoryDto.cs",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Models\\AGRepairHistoryDto.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Models\\AGRepairHistoryDto.cs",
               "RelativeToolTip": "Maintenance.WebAPI\\Models\\AGRepairHistoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,28 +315,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "AGMaintenanceController.cs",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Controllers\\AGMaintenanceController.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Controllers\\AGMaintenanceController.cs",
               "RelativeDocumentMoniker": "Maintenance.WebAPI\\Controllers\\AGMaintenanceController.cs",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Controllers\\AGMaintenanceController.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Controllers\\AGMaintenanceController.cs",
               "RelativeToolTip": "Maintenance.WebAPI\\Controllers\\AGMaintenanceController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T04:02:50.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Maintenance.WebAPI\\Program.cs",
-              "ToolTip": "F:\\prog3176 car platform\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Prog3176\\CarRentalPlatform\\CarRentalPlatform\\Maintenance.WebAPI\\Program.cs",
               "RelativeToolTip": "Maintenance.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T04:02:41.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T04:02:41.782Z"
             }
           ]
         }
